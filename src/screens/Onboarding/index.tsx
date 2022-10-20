@@ -1,24 +1,15 @@
 import React, {useRef, useState} from 'react';
 import * as S from './styles';
 
-import {
-  FlatList,
-  NativeScrollEvent,
-  NativeSyntheticEvent,
-  StatusBar,
-  Text,
-  TouchableOpacity,
-  View,
-} from 'react-native';
+import {FlatList, StatusBar} from 'react-native';
 import {StepOnboarding} from '../../components/StepOnboarding';
 
-import Animated, {
+import {
   interpolate,
   useAnimatedScrollHandler,
   useAnimatedStyle,
   useDerivedValue,
   useSharedValue,
-  withTiming,
 } from 'react-native-reanimated';
 import metrics from '../../styles/theme/metrics';
 import {Paginator} from '../../components/Paginator';
