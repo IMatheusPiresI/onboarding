@@ -9,7 +9,7 @@ Repositório do projeto **Onboarding** desenvolvido para aprofundar os conhecime
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./src/assets/images/onboarding.gif" width="100%" heigth="auto">
+<img src="./src/assets/images/onboarding.gif" width="50%" heigth="auto">
 </div>
 
 <h3 id="acessar-projeto">📁 Inicialização da Clonagem</h3>
